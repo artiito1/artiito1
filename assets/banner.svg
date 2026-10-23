@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Tate — ManaraTach</title>
+  <desc id="desc">Engineering technology around business. A cream lighthouse on the ManaraTach green background.</desc>
+  <rect width="1200" height="300" rx="16" fill="#406452"/>
+  <g fill="none" stroke="#fafbf0" opacity=".12">
+    <circle cx="1030" cy="155" r="110"/><circle cx="1030" cy="155" r="160"/>
+    <path d="M0 260H1200"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fafbf0">
+    <text x="65" y="76" font-size="13" letter-spacing="4" fill="#d7e3c2">ENGINEER · BUILDER · TECHNICAL OWNER</text>
+    <text x="61" y="145" font-size="57" font-weight="700">Ahmed Tate</text>
+    <text x="65" y="188" font-size="22" fill="#d7e3c2">Engineering technology around business.</text>
+    <text x="65" y="237" font-size="15" letter-spacing="2">BUILDING MANARATACH</text>
+  </g>
+  <g transform="translate(1028 30)" fill="#fafbf0">
+    <path d="M-21 100H21L38 208H-38Z"/>
+    <path d="M-29 91H29V101H-29ZM-28 49H28V57H-28ZM-28 49 0 23 28 49Z"/>
+    <path d="M-21 58H21V91H-21Z" fill="none" stroke="#fafbf0" stroke-width="3"/>
+    <circle cy="74" r="7" fill="#d7e3c2"/>
+    <path d="M-47 209H47V215H-47Z"/>
+    <path d="M-8 208V185A8 8 0 0 1 8 185V208Z" fill="#406452"/>
+    <path d="M-22 74-120 30V118Z" opacity=".09"/><path d="M22 74 120 30V118Z" opacity=".09"/>
+  </g>
+</svg>
